@@ -1,0 +1,61 @@
+
+=== RELATÓRIO DE OTIMIZAÇÃO DE APOSTAS - LOTOMANIA ===
+
+📊 RESUMO GERAL
+Orçamento Total: R$ 50.00
+Custo Total: R$ 15.00
+Sobra: R$ 35.00
+Número de Jogos: 5
+Nível de Risco: Moderate
+
+💰 ANÁLISE FINANCEIRA
+Valor Esperado Total: R$ -13.40
+ROI Esperado: -89.33%
+
+🎯 JOGOS RECOMENDADOS
+
+Jogo 1: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 2: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 3: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 4: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 5: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+🧪 RESULTADOS DA SIMULAÇÃO (1000 simulações)
+Ganho Médio: R$ 0.08
+Resultado Líquido Médio: R$ -14.92
+ROI Médio: -99.49%
+Probabilidade de Lucro: 0.0%
+
+Melhor Caso: R$ -11.00
+Pior Caso: R$ -15.00
+Desvio Padrão: R$ 0.39
+
+Percentis:
+10%: R$ -15.00
+25%: R$ -15.00
+50%: R$ -15.00
+75%: R$ -15.00
+90%: R$ -15.00
+
+⚠️ AVISO IMPORTANTE
+Este sistema é baseado em análise estatística e não garante resultados.
+Jogos de azar envolvem risco. Jogue com responsabilidade.

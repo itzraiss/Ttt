@@ -1,0 +1,116 @@
+
+=== RELATÓRIO DE OTIMIZAÇÃO DE APOSTAS - LOTOMANIA ===
+
+📊 RESUMO GERAL
+Orçamento Total: R$ 50.00
+Custo Total: R$ 48.00
+Sobra: R$ 2.00
+Número de Jogos: 16
+Nível de Risco: Aggressive
+
+💰 ANÁLISE FINANCEIRA
+Valor Esperado Total: R$ -42.88
+ROI Esperado: -89.33%
+
+🎯 JOGOS RECOMENDADOS
+
+Jogo 1: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 2: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 3: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 4: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 5: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 6: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 7: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 8: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 9: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 10: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 11: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 12: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 13: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 14: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 15: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 16: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+🧪 RESULTADOS DA SIMULAÇÃO (1000 simulações)
+Ganho Médio: R$ 0.22
+Resultado Líquido Médio: R$ -47.78
+ROI Médio: -99.54%
+Probabilidade de Lucro: 0.0%
+
+Melhor Caso: R$ -44.00
+Pior Caso: R$ -48.00
+Desvio Padrão: R$ 0.65
+
+Percentis:
+10%: R$ -48.00
+25%: R$ -48.00
+50%: R$ -48.00
+75%: R$ -48.00
+90%: R$ -46.00
+
+⚠️ AVISO IMPORTANTE
+Este sistema é baseado em análise estatística e não garante resultados.
+Jogos de azar envolvem risco. Jogue com responsabilidade.
