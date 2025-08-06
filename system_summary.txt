@@ -1,0 +1,24 @@
+
+=== RELATÓRIO RESUMO - SISTEMA LOTOMANIA AI ===
+Data: 2025-08-05 22:16:51
+
+📊 ARQUIVOS GERADOS:
+✅ lotomania_processed.json - Dados processados
+✅ statistical_report.json - Análise estatística
+✅ backtesting_results.json - Validação do sistema
+✅ performance_report.txt - Relatório de performance
+
+🎯 PRÓXIMOS PASSOS:
+1. Execute 'python main.py --web' para interface gráfica
+2. Ou use os módulos individualmente conforme documentação
+3. Consulte o README.md para instruções detalhadas
+
+⚠️  LEMBRE-SE:
+- Este sistema é para fins educacionais e de pesquisa
+- Não garante resultados em jogos reais
+- Use com responsabilidade e consciência dos riscos
+
+📞 SUPORTE:
+- README.md: Documentação completa
+- Comentários no código: Explicações detalhadas
+- Relatórios JSON: Análises técnicas completas

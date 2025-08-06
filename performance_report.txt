@@ -1,0 +1,96 @@
+=== RELATÓRIO DE BACKTESTING - LOTOMANIA ===
+
+1. ESTRATÉGIA: HOT_COLD
+   Testes realizados: 201
+   Acertos médios: 4.20 ± 1.75
+   Máximo de acertos: 11
+   Mínimo de acertos: 1
+   Precisão média: 0.210
+   F1 Score médio: 0.210
+   Distribuição de acertos:
+     1 acertos: 10 vezes (5.0%)
+     2 acertos: 18 vezes (9.0%)
+     3 acertos: 47 vezes (23.4%)
+     4 acertos: 44 vezes (21.9%)
+     5 acertos: 45 vezes (22.4%)
+     6 acertos: 18 vezes (9.0%)
+     7 acertos: 11 vezes (5.5%)
+     8 acertos: 3 vezes (1.5%)
+     9 acertos: 4 vezes (2.0%)
+     11 acertos: 1 vezes (0.5%)
+
+2. ESTRATÉGIA: COMBINED
+   Testes realizados: 201
+   Acertos médios: 4.15 ± 1.80
+   Máximo de acertos: 10
+   Mínimo de acertos: 0
+   Precisão média: 0.208
+   F1 Score médio: 0.208
+   Distribuição de acertos:
+     0 acertos: 1 vezes (0.5%)
+     1 acertos: 12 vezes (6.0%)
+     2 acertos: 20 vezes (10.0%)
+     3 acertos: 41 vezes (20.4%)
+     4 acertos: 51 vezes (25.4%)
+     5 acertos: 34 vezes (16.9%)
+     6 acertos: 22 vezes (10.9%)
+     7 acertos: 10 vezes (5.0%)
+     8 acertos: 8 vezes (4.0%)
+     10 acertos: 2 vezes (1.0%)
+
+3. ESTRATÉGIA: FREQUENCY
+   Testes realizados: 201
+   Acertos médios: 4.09 ± 1.72
+   Máximo de acertos: 10
+   Mínimo de acertos: 0
+   Precisão média: 0.205
+   F1 Score médio: 0.205
+   Distribuição de acertos:
+     0 acertos: 1 vezes (0.5%)
+     1 acertos: 9 vezes (4.5%)
+     2 acertos: 25 vezes (12.4%)
+     3 acertos: 42 vezes (20.9%)
+     4 acertos: 48 vezes (23.9%)
+     5 acertos: 37 vezes (18.4%)
+     6 acertos: 21 vezes (10.4%)
+     7 acertos: 13 vezes (6.5%)
+     8 acertos: 3 vezes (1.5%)
+     10 acertos: 2 vezes (1.0%)
+
+4. ESTRATÉGIA: DECADE_BALANCE
+   Testes realizados: 201
+   Acertos médios: 4.03 ± 1.74
+   Máximo de acertos: 10
+   Mínimo de acertos: 0
+   Precisão média: 0.201
+   F1 Score médio: 0.201
+   Distribuição de acertos:
+     0 acertos: 4 vezes (2.0%)
+     1 acertos: 6 vezes (3.0%)
+     2 acertos: 27 vezes (13.4%)
+     3 acertos: 41 vezes (20.4%)
+     4 acertos: 51 vezes (25.4%)
+     5 acertos: 36 vezes (17.9%)
+     6 acertos: 19 vezes (9.5%)
+     7 acertos: 10 vezes (5.0%)
+     8 acertos: 5 vezes (2.5%)
+     9 acertos: 1 vezes (0.5%)
+     10 acertos: 1 vezes (0.5%)
+
+5. ESTRATÉGIA: GAP_BASED
+   Testes realizados: 201
+   Acertos médios: 3.94 ± 1.56
+   Máximo de acertos: 8
+   Mínimo de acertos: 1
+   Precisão média: 0.197
+   F1 Score médio: 0.197
+   Distribuição de acertos:
+     1 acertos: 11 vezes (5.5%)
+     2 acertos: 25 vezes (12.4%)
+     3 acertos: 47 vezes (23.4%)
+     4 acertos: 48 vezes (23.9%)
+     5 acertos: 36 vezes (17.9%)
+     6 acertos: 22 vezes (10.9%)
+     7 acertos: 10 vezes (5.0%)
+     8 acertos: 2 vezes (1.0%)
+

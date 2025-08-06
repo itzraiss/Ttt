@@ -1,0 +1,366 @@
+
+=== RELATÓRIO DE OTIMIZAÇÃO DE APOSTAS - LOTOMANIA ===
+
+📊 RESUMO GERAL
+Orçamento Total: R$ 200.00
+Custo Total: R$ 198.00
+Sobra: R$ 2.00
+Número de Jogos: 66
+Nível de Risco: Aggressive
+
+💰 ANÁLISE FINANCEIRA
+Valor Esperado Total: R$ -176.88
+ROI Esperado: -89.33%
+
+🎯 JOGOS RECOMENDADOS
+
+Jogo 1: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 2: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 3: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 4: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 5: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 6: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 7: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 8: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 9: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 10: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 11: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 12: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 13: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 14: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 15: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 16: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 17: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 18: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 19: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 20: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 21: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 22: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 23: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 24: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 25: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 26: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 27: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 28: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 29: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 30: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 31: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 32: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 33: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 34: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 35: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 36: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 37: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 38: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 39: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 40: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 41: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 42: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 43: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 44: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 45: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 46: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 47: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 48: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 49: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 50: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 51: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 52: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 53: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 54: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 55: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 56: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 57: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 58: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 59: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 60: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 61: Gap Analysis
+Números: 11 - 14 - 17 - 31 - 33 - 36 - 37 - 38 - 39 - 42 - 45 - 52 - 58 - 71 - 73 - 74 - 78 - 83 - 90 - 99
+Valor Esperado: R$ -2.68
+Confiança: 70%
+
+Jogo 62: Balanced Decades
+Números: 04 - 09 - 12 - 13 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 65 - 71 - 73 - 88 - 89 - 96 - 98
+Valor Esperado: R$ -2.68
+Confiança: 75%
+
+Jogo 63: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 64: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+Jogo 65: Hot Numbers
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 50 - 59 - 63 - 71 - 82 - 85 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 85%
+
+Jogo 66: Composite Strategy
+Números: 00 - 01 - 02 - 04 - 05 - 09 - 12 - 26 - 29 - 36 - 39 - 40 - 42 - 50 - 59 - 63 - 71 - 73 - 88 - 89
+Valor Esperado: R$ -2.68
+Confiança: 90%
+
+🧪 RESULTADOS DA SIMULAÇÃO (1000 simulações)
+Ganho Médio: R$ 0.85
+Resultado Líquido Médio: R$ -197.15
+ROI Médio: -99.57%
+Probabilidade de Lucro: 0.0%
+
+Melhor Caso: R$ -190.00
+Pior Caso: R$ -198.00
+Desvio Padrão: R$ 1.29
+
+Percentis:
+10%: R$ -198.00
+25%: R$ -198.00
+50%: R$ -198.00
+75%: R$ -196.00
+90%: R$ -196.00
+
+⚠️ AVISO IMPORTANTE
+Este sistema é baseado em análise estatística e não garante resultados.
+Jogos de azar envolvem risco. Jogue com responsabilidade.
